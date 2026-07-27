@@ -17,12 +17,13 @@ README for Public
 
 ## 👋 Über uns
 
-[Firmenname] ist [ein/eine kurze Beschreibung des Unternehmens – Branche, was ihr macht, für wen]. Hier auf GitHub sammeln wir die Software-Projekte, Tools und internen Systeme, die unser Team entwickelt und pflegt.
+Innungsservice SdG ist Beratungsunternehmen welches Sie in allen Themen rund um EU-DSGVO und Compliance unterstützt. 
+Hier auf GitHub sammeln wir die Software-Projekte, Tools und internen Systeme, die unser Team entwickelt und pflegt.
 
 ## 🚀 Was wir machen
 
-- **[Beratung im Bereich EU-DSGVO und Compliance]** – kurze Beschreibung
-- **[Unterstützung bei der Dokumentationspflicht]** – kurze Beschreibung
+- **[Beratung im Bereich EU-DSGVO und Compliance]**
+- **[Unterstützung bei der Dokumentationspflicht]**
 - **[Bestellung eines externen Datenschutzbeauftragten]**
 
 ## 🛠️ Tech-Stack
