@@ -91,5 +91,5 @@ Als vom TÜV zertifizierte Datenschutzbeauftragte verfügen wir über umfassende
 ---
 
 <div align="center">
-<sub>© [2026] [Innungsservice SdG GmbH] · <a href="https://innungsservice.de/impressum/">Impressum</a> · <a href="https://innungsservice.de/datenschutzerklaerung/">Datenschutz</a></sub>
+<sub>© 2026 Innungsservice SdG GmbH · <a href="https://innungsservice.de/impressum/">Impressum</a> · <a href="https://innungsservice.de/datenschutzerklaerung/">Datenschutz</a></sub>
 </div>
