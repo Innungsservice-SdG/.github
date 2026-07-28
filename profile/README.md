@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.innungsservice.de"><img alt="Website" src="https://img.shields.io/badge/Website-Innungsservice-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://linkedin.com/company/innungsservice-sdg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:admin@innung.com"><img alt="Kontakt" src="https://img.shields.io/badge/Kontakt-E--Mail-informational?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:marketing@innungsservice.de"><img alt="Kontakt" src="https://img.shields.io/badge/Kontakt-E--Mail-informational?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 </div>
@@ -85,7 +85,7 @@ Als vom TÜV zertifizierte Datenschutzbeauftragte verfügen wir über umfassende
 | | |
 |---|---|
 | 🌐 Website | [www.innungsservice.de](https://www.innungsservice.de) |
-| ✉️ E-Mail | [admin@innung.de](mailto:admin@innung.de) |
+| ✉️ E-Mail | [marketing@innungsservice.de](mailto:marketing@innungsservice.de) |
 | 💼 LinkedIn | [linkedin.com/company/innungsservice-sdg-gmbh](https://linkedin.com/company/innungsservice-sdg-gmbh) |
 
 ---
